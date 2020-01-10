@@ -2,7 +2,7 @@
 
 #### Deck
 
-
+https://www.slideshare.net/diego.pacheco/redis-218396098
 
 #### Code 
 
